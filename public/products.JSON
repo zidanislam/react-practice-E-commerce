@@ -1,0 +1,191 @@
+[
+  {
+    "image_url": "https://m.media-amazon.com/images/I/71DCZOdq92S._AC_SL1500_.jpg",
+    "id": "11111",
+    "name": "Laptop Model XYZ",
+    "price": 999,
+    "short_description": "Powerful laptop for professionals",
+    "ratings": "4.5",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/716DaRh4tfL._AC_SL1500_.jpg",
+    "id": "11112",
+    "name": "Smartphone Model ABC",
+    "price": 699,
+    "short_description": "High-performance smartphone with great camera",
+    "ratings": "4.8",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81mcu4Dqj0L._SL1500_.jpg",
+    "id": "11113",
+    "name": "Mountain Bike",
+    "price": 599,
+    "short_description": "Off-road bicycle for adventurous rides",
+    "ratings": "4.3",
+    "age_limit": "12+"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/51Uorf8f+3L.jpg",
+    "id": "11114",
+    "name": "The Great Gatsby",
+    "price": 12.99,
+    "short_description": "Classic novel set in the Roaring Twenties",
+    "ratings": "4.7",
+    "age_limit": "16+"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/71AbYCAvr-L._SL1500_.jpg",
+    "id": "11115",
+    "name": "Gaming Console XYZ",
+    "price": 399,
+    "short_description": "Next-gen gaming console for immersive experiences",
+    "ratings": "4.6",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/61NAo+qp8FL._AC_SL1500_.jpg",
+    "id": "11116",
+    "name": "Noise-Canceling Headphones",
+    "price": 149,
+    "short_description": "Premium headphones with excellent sound",
+    "ratings": "4.4",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81eZ2QtYFiL._AC_SL1500_.jpg",
+    "id": "11117",
+    "name": "Building Blocks Set",
+    "price": 29.99,
+    "short_description": "Educational toy set for creative play",
+    "ratings": "4.2",
+    "age_limit": "3+"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/61XEjAmK7uL._AC_SL1500_.jpg",
+    "id": "11118",
+    "name": "Smart Fitness Tracker",
+    "price": 79.99,
+    "short_description": "Tracks activity, heart rate, and sleep quality",
+    "ratings": "4.5",
+    "age_limit": "18+"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/61Sw8-8eoeL._AC_SL1200_.jpg",
+    "id": "11119",
+    "name": "Espresso Maker",
+    "price": 199,
+    "short_description": "High-quality coffee machine for barista-style coffee",
+    "ratings": "4.7",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81+okm4IpfL._AC_SL1500_.jpg",
+    "id": "11120",
+    "name": "Strategy Board Game",
+    "price": 39.99,
+    "short_description": "Engaging board game for tactical thinking",
+    "ratings": "4.6",
+    "age_limit": "10+"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/71cHCpjKe8L._AC_UX679_.jpg",
+    "id": "11121",
+    "name": "Luxury Watch",
+    "price": 999,
+    "short_description": "Elegant timepiece with precision",
+    "ratings": "4.9",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/71W1KvLH3sL._AC_SL1500_.jpg",
+    "id": "11122",
+    "name": "DSLR Camera XYZ",
+    "price": 799,
+    "short_description": "Professional-grade camera for stunning photos",
+    "ratings": "4.8",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81bksIIdIIL._AC_UX500_.jpg",
+    "id": "11123",
+    "name": "Sports Sneakers",
+    "price": 79.99,
+    "short_description": "Stylish and comfortable sneakers for sports",
+    "ratings": "4.4",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/71J9XqZ1D2L._AC_SL1500_.jpg",
+    "id": "11124",
+    "name": "Robotic Vacuum Cleaner",
+    "price": 249,
+    "short_description": "Automated vacuum cleaner for effortless cleaning",
+    "ratings": "4.6",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81JcKlfBz+L._AC_SL1500_.jpg",
+    "id": "11125",
+    "name": "Acoustic Guitar",
+    "price": 199,
+    "short_description": "High-quality guitar for aspiring musicians",
+    "ratings": "4.7",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81ZhKSnPWiL._AC_SL1500_.jpg",
+    "id": "11126",
+    "name": "Outdoor Backpack",
+    "price": 89.99,
+    "short_description": "Durable backpack for outdoor adventures",
+    "ratings": "4.5",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/81gdZLJHErL._SL1500_.jpg",
+    "id": "11127",
+    "name": "Lightweight Stroller",
+    "price": 149,
+    "short_description": "Convenient stroller for parents on the go",
+    "ratings": "4.3",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/91Hl6AHHWiL._AC_SL1500_.jpg",
+    "id": "11128",
+    "name": "Drawing and Painting Set",
+    "price": 29.99,
+    "short_description": "Complete art set for creative expression",
+    "ratings": "4.5",
+    "age_limit": "6+"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/51cGlUCK5WL._AC_SL1000_.jpg",
+    "id": "11129",
+    "name": "Voice-Activated Smart Speaker",
+    "price": 129,
+    "short_description": "Plays music, answers questions, controls smart devices",
+    "ratings": "4.7",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/71tpOZEW0eL._AC_SL1500_.jpg",
+    "id": "11130",
+    "name": "HEPA Air Purifier",
+    "price": 199,
+    "short_description": "Cleans and purifies the air for a healthier environment",
+    "ratings": "4.6",
+    "age_limit": "No age limit"
+  },
+  {
+    "image_url": "https://m.media-amazon.com/images/I/512V1GCv-zL._SL1000_.jpg",
+    "id": "11131",
+    "name": "Rechargeable Electric Toothbrush",
+    "price": 59.99,
+    "short_description": "Advanced toothbrush for effective oral care",
+    "ratings": "4.9",
+    "age_limit": "No age limit"
+  }
+]

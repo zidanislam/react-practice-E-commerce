@@ -1,0 +1,21 @@
+.header-container {
+  background-color: #051517;
+  line-height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 80px;
+}
+
+.header-container img {
+  height: 70px;
+  margin-left: 50px;
+}
+
+.header-container a {
+  text-decoration: none;
+  color: white;
+  margin-right: 30px;
+  font-size: 16px;
+  font-weight: 400;
+}
