@@ -8,6 +8,8 @@
 }
 
 .header-container img {
+  display: flex;
+  align-items: center;
   height: 70px;
   margin-left: 50px;
 }
